@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 
-void saludar();
+void saludar()
 
 saludar();
 cout<<"Github"<<endl;
