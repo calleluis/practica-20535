@@ -3,19 +3,17 @@
 
 using namespace std;
 
-int main(){
-
 void saludar();
 
-saludar();
-cout<<"Github"<<endl;
+int main(){
 
 return 0;
+
 }
+
 void saludar(){
 cout<<"Hola"<<endl;
 
 }
-
 
 
